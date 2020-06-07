@@ -1,0 +1,8 @@
+{
+    "require": {
+        "treinetic/imageartist": "^1.0",
+        "slim/csrf": "^1.0",
+        "slim/psr7": "^1.1",
+        "aura/session": "^2.1"
+    }
+}
